@@ -128,13 +128,7 @@ export default function LoginPage() {
             </Button>
           </form>
 
-          <div className="mt-6 p-4 rounded-xl bg-gradient-to-r from-cream-200 to-cream-100 border border-gold-200/50">
-            <p className="font-semibold text-sm text-gray-700 mb-2 flex items-center gap-2">
-              <Star className="w-4 h-4 text-gold-500 fill-gold-500" />
-              Comptes de démonstration
-            </p>
-          
-          </div>
+        
         </CardContent>
       </Card>
     </div>
