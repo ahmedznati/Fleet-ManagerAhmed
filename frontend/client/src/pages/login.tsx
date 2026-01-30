@@ -133,10 +133,7 @@ export default function LoginPage() {
               <Star className="w-4 h-4 text-gold-500 fill-gold-500" />
               Comptes de démonstration
             </p>
-            <div className="space-y-1 text-sm text-gray-600">
-              <p><span className="font-medium text-crimson-600">Admin:</span> rania@admin.com / raniakhedri</p>
-              <p><span className="font-medium text-gold-600">Utilisateur:</span> ahmed@user.com / ahmedznati</p>
-            </div>
+          
           </div>
         </CardContent>
       </Card>
