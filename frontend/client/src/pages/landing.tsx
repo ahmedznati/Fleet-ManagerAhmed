@@ -79,9 +79,7 @@ export default function LandingPage() {
                 Commencer Maintenant <ArrowRight className="ml-2 w-5 h-5" />
               </Button>
             </Link>
-            <Button size="lg" variant="outline" className="h-14 px-8 text-lg rounded-full border-2 border-gold-400 text-gold-700 hover:bg-gold-50 hover:border-gold-500 transition-all duration-300">
-              <Crosshair className="mr-2 w-5 h-5" /> Voir la Démo
-            </Button>
+            
           </div>
           
           {/* Dashboard Preview with elegant frame */}
